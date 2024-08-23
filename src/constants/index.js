@@ -248,7 +248,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      source_code_link: "https://github.com/sbat11",
+      source_code_link: "https://github.com/sbat11/ranchffb",
     },
   ];
   
