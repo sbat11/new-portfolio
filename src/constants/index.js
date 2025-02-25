@@ -140,26 +140,19 @@ import {
       ],
     },
     {
-      title: "Incoming Web Developer Intern",
+      title: "Web Developer Intern",
       company_name: "YourWebDomains",
       icon: shopify,
       iconBg: "#383E56",
-      date: " July 2024 - Present",
+      date: " July 2024 - December 2024",
       points: [
+        "Developed web apps with PHP, HTML, CSS, and JavaScript to improve user experience and functionality for clients.",
+        "Integrated third-party sports APIs to provide real-time data updates and personalized user experiences resulting in a 20% increase in daily active users for sports websites and applications.",
+        "Improved loading times by an average of 40%  and data security through the application of best practices for code optimization, caching, and vulnerability mitigation on websites.",
         ,
       ],
-    },
-    {
-      title: "Incoming Data Analytics Extern",
-      company_name: "Extern from Web3",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Aug 2024 - Present",
-      points: [
-        ,
-      ],
-    },
-  ];
+    }
+  ]
   
   const testimonials = [
     {
@@ -231,24 +224,24 @@ import {
       source_code_link: "https://github.com/sbat11/mini-url",
     },
     {
-      name: "Fantasy Football Chatbot",
+      name: "NBA Winners",
       description:
-        "An AI Chatbot to help you figure out the best drafts and trade strategy for your fantasy leagues.",
+        "A machine learning model that predicts future NBA games based on previous performances",
       tags: [
         {
-          name: "nodejs",
+          name: "Python",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Numpy",
           color: "green-text-gradient",
         },
         {
-          name: "react",
+          name: "Jupyter notebook",
           color: "pink-text-gradient",
         },
       ],
-      source_code_link: "https://github.com/sbat11/ranchffb",
+      source_code_link: "https://github.com/sbat11/NBA-Game-Model",
     },
   ];
   
