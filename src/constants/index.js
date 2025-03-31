@@ -23,7 +23,8 @@ import {
     jobit,
     tripguide,
     threejs,
-    bat
+    bat,
+    basketball
   } from "../assets";
   
   export const navLinks = [
