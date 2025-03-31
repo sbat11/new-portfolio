@@ -61,4 +61,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  bat,
+  basketball
 };
