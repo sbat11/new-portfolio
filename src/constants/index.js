@@ -23,6 +23,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    bat
   } from "../assets";
   
   export const navLinks = [
@@ -204,24 +205,25 @@ import {
       source_code_link: "https://github.com/sbat11/twitter-clone1"
     },
     {
-      name: "Mini-URL",
+      name: "BattyBot",
       description:
-        "A URL shortening service that provides a unique, short, and easily recognizable link for users to share.",
+        "A Discord Bot that streams high-quality audio, queues songs, and keeps your server vibing.",
       tags: [
         {
-          name: "react",
+          name: "JavaScript",
           color: "blue-text-gradient",
         },
         {
-          name: "JS",
+          name: "Discord API",
           color: "green-text-gradient",
         },
         {
-          name: "Python",
+          name: "AWS",
           color: "pink-text-gradient",
         },
       ],
-      source_code_link: "https://github.com/sbat11/mini-url",
+      image: bat,
+      source_code_link: "https://github.com/sbat11/Discord-bot",
     },
     {
       name: "NBA Winners",
@@ -241,6 +243,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
+      image: basketball,
       source_code_link: "https://github.com/sbat11/NBA-Game-Model",
     },
   ];

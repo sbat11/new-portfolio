@@ -5,7 +5,9 @@ import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
+import basketball from "./basketball.png";
 import close from "./close.svg";
+import bat from "./bat-clipart-xl.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
