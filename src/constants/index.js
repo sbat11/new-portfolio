@@ -40,6 +40,12 @@ import {
       id: "contact",
       title: "Contact",
     },
+    {
+      id: "resume",
+      title: "Resume",
+      external: true, 
+      url: "https://pxl.to/aqr6i3a8"
+    }
   ];
   
   const services = [
