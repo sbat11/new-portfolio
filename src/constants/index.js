@@ -44,7 +44,7 @@ import {
       id: "resume",
       title: "Resume",
       external: true, 
-      url: "https://pxl.to/aqr6i3a8"
+      url: "https://mel-chronicle-13.ezihost.net"
     }
   ];
   
