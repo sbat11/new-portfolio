@@ -29,22 +29,22 @@ import {
   
   export const navLinks = [
     {
-      id: "about",
       title: "About",
+      path: "#about",
     },
     {
-      id: "work",
       title: "Work",
+      path: "#experience",
     },
     {
-      id: "contact",
       title: "Contact",
+      path: "#contact",
     },
     {
       id: "resume",
       title: "Resume",
       external: true, 
-      url: "https://mel-chronicle-13.ezihost.net"
+      path: "https://graphic-strips-89.ezihost.net"
     }
   ];
   
