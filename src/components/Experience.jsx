@@ -11,8 +11,8 @@ const experiences = [
     ],
   },
   {
-    title: "Software Engineer Fellow",
-    company: "Meta x MLH",
+    title: "Site Reliability Engineer Intern",
+    company: "Meta Open Source",
     location: "Kendall Park, NJ",
     date: "June 2025 - August 2025",
     points: [
